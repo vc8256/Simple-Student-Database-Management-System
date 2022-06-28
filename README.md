@@ -1,6 +1,8 @@
 # Simple-Student-Database-Management-System
 Manage student marks semester wise
 
+#NOTE : ADD NEW DATA WHILE RUNNING CODE FOR THE FIRST TIME FOR NEW DATA FILE TO BE CREATED
+
 
 Main Menu : Use numbers to select desired option
 ![image](https://user-images.githubusercontent.com/104585074/176289424-28c9119f-e4ea-4e50-9f64-cf4adca85588.png)
