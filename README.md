@@ -14,11 +14,9 @@ Option 2: Viewing records of all students
 Option 3: Searching for record of a particular student using roll number
 ![image](https://user-images.githubusercontent.com/104585074/176298941-f98bbb38-146d-48ca-ab26-0a7050975f4a.png)
 
-Option 4: Deleting record of a student by entering roll number\n
+Option 4: Deleting record of a student by entering roll number<br />
 ![image](https://user-images.githubusercontent.com/104585074/176299713-1c05be53-9e05-4772-bc88-1fc8287e8f1f.png)
-
 ![image](https://user-images.githubusercontent.com/104585074/176300151-9234e757-e600-416e-ae63-e73330f96afa.png)
-
 
 Option 5: Exits program successfully with exit code 0
 ![image](https://user-images.githubusercontent.com/104585074/176300935-b5ad0a9f-f0fb-481f-8863-0907aef9c3cb.png)
